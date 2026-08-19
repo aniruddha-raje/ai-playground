@@ -14,3 +14,7 @@ langgraph
 
 # MCP server example (07-mcp-server.md)
 mcp[cli]
+
+# .docx summarization examples (08-summarize-docx.md)
+python-docx      # extract text for the Claude API example
+boto3            # Amazon Bedrock Converse API example

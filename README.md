@@ -13,6 +13,7 @@ A set of short, plain-language notes on Claude — from core LLM concepts to the
 | 5 | [LangChain](05-langchain.md) | Open-source LLM framework — chains, prompts, tools (2 code examples) |
 | 6 | [LangGraph](06-langgraph.md) | Stateful, graph-based agents and loops (2 code examples) |
 | 7 | [MCP Server](07-mcp-server.md) | Building an MCP server — the standard tool structure (input, params, output) |
+| 8 | [Summarize a .docx](08-summarize-docx.md) | Uploading a file to summarize — Claude API vs. Amazon Bedrock |
 
 > These notes favor **one- or two-line explanations**. They're a quick reference, not full documentation.
 
