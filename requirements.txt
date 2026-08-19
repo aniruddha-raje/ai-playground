@@ -1,0 +1,16 @@
+# Dependencies for the code examples in these study notes.
+# Install with:  pip install -r requirements.txt
+# Also set your key: export ANTHROPIC_API_KEY="sk-ant-..."
+
+# Claude API examples (04-claude-api.md)
+anthropic
+
+# LangChain examples (05-langchain.md)
+langchain
+langchain-anthropic
+
+# LangGraph examples (06-langgraph.md) — langchain-anthropic reused from above
+langgraph
+
+# MCP server example (07-mcp-server.md)
+mcp[cli]
